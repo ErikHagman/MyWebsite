@@ -1,5 +1,9 @@
-body {
-  background-color: yellow;
+html {
+  min-height: 100%;
+  background-image: "https://erikhagman.github.io/MyWebsite/Pictures/Erikpic.jpg";
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 h1 {
   color: blue;
